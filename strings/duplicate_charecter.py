@@ -9,4 +9,3 @@ def duplicate_charecter(s:str):
     return result
 
 print(duplicate_charecter("annamma"))
-            
