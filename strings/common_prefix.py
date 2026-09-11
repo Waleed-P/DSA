@@ -8,4 +8,4 @@ def prefix(words:list):
     return prefix
         
 words=["flower", "flow", "flight"]
-print(prefix(words))
+print(prefix(words))  

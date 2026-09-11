@@ -16,4 +16,5 @@ def valid(s:str):
     return len(stack) == 0
             
 print(valid("{[({)]}"))
+print(valid("(("))
 
